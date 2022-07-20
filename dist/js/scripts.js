@@ -10,13 +10,23 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./src/css/styles.css":
+/*!****************************!*\
+  !*** ./src/css/styles.css ***!
+  \****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://Webpack-static-site-example/./src/css/styles.css?");
+
+/***/ }),
+
 /***/ "./src/js/App.js":
 /*!***********************!*\
   !*** ./src/js/App.js ***!
   \***********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_Test__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Test */ \"./src/js/components/Test.js\");\n\n\nconst FE = {\n    Test: (0,_components_Test__WEBPACK_IMPORTED_MODULE_0__[\"default\"])()\n};\n\n\n//# sourceURL=webpack://Webpack-static-site-example/./src/js/App.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../css/styles.css */ \"./src/css/styles.css\");\n/* harmony import */ var _components_Test__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Test */ \"./src/js/components/Test.js\");\n\n\n\n\nconst FE = {\n    Test: (0,_components_Test__WEBPACK_IMPORTED_MODULE_1__[\"default\"])()\n};\n\n\n//# sourceURL=webpack://Webpack-static-site-example/./src/js/App.js?");
 
 /***/ }),
 
