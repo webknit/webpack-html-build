@@ -1,6 +1,6 @@
 const Test = () => {
     const init = () => {
-        console.log('all ok!');
+        console.log('all ok! sss');
     };
 
     init();
